@@ -1,5 +1,8 @@
-### IDEA ###
-.idea/
+### idea ###
+.idea
 
-### GRADLE ###
+### gradle ###
 .gradle
+
+### obsetor-front ###
+/obsetor-front/obsetor-front.iml
