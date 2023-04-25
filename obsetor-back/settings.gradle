@@ -1,5 +1,3 @@
 rootProject.name = 'obsetor-back'
-
-include 'consumer:spotify-consumer'
-
+include 'gateway'
 
